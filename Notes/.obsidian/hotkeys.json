@@ -7,5 +7,14 @@
       ],
       "key": "O"
     }
+  ],
+  "editor:clear-formatting": [
+    {
+      "modifiers": [
+        "Alt",
+        "Shift"
+      ],
+      "key": "Key0"
+    }
   ]
 }
