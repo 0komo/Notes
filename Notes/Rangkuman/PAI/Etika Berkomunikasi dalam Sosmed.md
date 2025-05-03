@@ -14,8 +14,6 @@ Media sosial adalah ruang publik yang harus digunakan dengan penuh tanggung jawa
     - Jangan menyebar hoax, gosip, atau fitnah.
         
 
----
-
 ## **2. Jauhi Ghibah dan Adu Domba (Namimah)**
 
 - **Dalil:**  
