@@ -14,6 +14,7 @@ Hukum bacaan tajwid dimana huruf Lam (ل) dalam Alif Lam (ال) dilafalkan jelas
 - ‎ه (Ha)
 - ‎ي (Ya)
 
+---
 ### Contoh bacaan Izhar Qomariah
 | Contoh Bacaan |           Penjelasan            |
 | :-----------: | :-----------------------------: |
