@@ -14,8 +14,9 @@
 - **Fungsi:** Pedoman hidup bagi Bani Israil.
 - **Sebutan dalam Al-Qur’an:**
 
+>
 > _"Sesungguhnya Kami telah menurunkan Kitab Taurat yang di dalamnya terdapat petunjuk dan cahaya..."_ (QS. Al-Ma’idah: 44).
-
+>
 
 **Catatan:**
 - Taurat asli telah hilang, dan kitab yang ada sekarang (Torah/Perjanjian Lama) telah mengalami perubahan.
@@ -34,8 +35,9 @@
 - **Fungsi:** Motivasi spiritual dan penguatan iman.
 - **Sebutan dalam Al-Qur’an:**
 
+>
 > _"Dan Kami berikan Zabur kepada Daud."_ (QS. Al-Isra’: 55).
-
+>
 
 **Catatan:**
 - Zabur mirip dengan **Kitab Mazmur** dalam tradisi Kristen/Yahudi, tetapi versi aslinya telah berubah.
@@ -55,8 +57,9 @@
 - **Fungsi:** Memperbaharui ajaran Taurat yang telah diselewengkan.
 - **Sebutan dalam Al-Qur’an:**
 
+>
 > _"Dan Kami telah memberikan Injil kepada Isa, di dalamnya terdapat petunjuk dan cahaya..."_ (QS. Al-Ma’idah: 46).
-
+>
 
 **Catatan:**
 - Injil asli telah hilang. Kitab yang ada sekarang (Perjanjian Baru) adalah tulisan murid-murid Nabi Isa.

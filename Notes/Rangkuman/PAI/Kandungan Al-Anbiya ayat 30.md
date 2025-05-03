@@ -1,6 +1,8 @@
 Terjemahan dari surah Al-Anbiya ayat 30:
 
-> Dan apakah orang-orang kafir tidak mengetahui bahwasanya langit dan bumi itu keduanya dahulu adalah suatu yang padu, kemudian Kami pisahkan antara keduanya. Dan dari air Kami jadikan segala sesuatu yang hidup. Maka mengapakah mereka tidak juga beriman?
+>
+> _"Dan apakah orang-orang kafir tidak mengetahui bahwasanya langit dan bumi itu keduanya dahulu adalah suatu yang padu, kemudian Kami pisahkan antara keduanya. Dan dari air Kami jadikan segala sesuatu yang hidup. Maka mengapakah mereka tidak juga beriman?"_
+>
 
 Memiliki kandungan bahwa:
 
