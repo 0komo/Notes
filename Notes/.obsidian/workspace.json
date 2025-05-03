@@ -41,16 +41,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Rangkuman/PAI/Asmaul Husna.md",
+                "file": "Rangkuman/PAI/Hukum bacaan Mad.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Asmaul Husna"
+              "title": "Hukum bacaan Mad"
+            }
+          },
+          {
+            "id": "51660dc086eaa834",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Rangkuman/PAI/Dalil Naqli tentang Beriman kepada Malaikat.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Dalil Naqli tentang Beriman kepada Malaikat"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -203,6 +217,7 @@
   "active": "ab7887071c5fb105",
   "lastOpenFiles": [
     "Rangkuman/PAI/Hukum bacaan Mad.md",
+    "Rangkuman/PAI/Dalil Naqli tentang Beriman kepada Malaikat.md",
     "Rangkuman/PAI/Asmaul Husna.md",
     "Rangkuman/PAI/Perilaku Semangat Mencari Ilmu dalam Islam.md",
     "Rangkuman/PAI/Rasul Allah.md",
