@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Rangkuman/PAI/Ketentuan Akikah.md",
+                "file": "Rangkuman/PAI/Imam Mazhab.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Ketentuan Akikah"
+              "title": "Imam Mazhab"
             }
           }
         ]
@@ -173,8 +173,9 @@
   },
   "active": "51660dc086eaa834",
   "lastOpenFiles": [
-    "Rangkuman/PAI/Qurban.md",
     "Rangkuman/PAI/Ketentuan Akikah.md",
+    "Rangkuman/PAI/Imam Mazhab.md",
+    "Rangkuman/PAI/Qurban.md",
     "Rangkuman/PAI/Hutang Piutang.md",
     "Rangkuman/PAI/Jenis-Jenis Shalat.md",
     "Rangkuman/PAI/Shalat Gerhana.md",
