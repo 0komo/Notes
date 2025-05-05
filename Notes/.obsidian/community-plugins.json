@@ -1,6 +1,6 @@
 [
   "obsidian-git",
-  "print",
   "unicode-search",
-  "typst"
+  "typst",
+  "better-export-pdf"
 ]
