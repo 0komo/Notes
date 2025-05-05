@@ -1,8 +1,8 @@
 {
-  "format": "svg",
+  "format": "image",
   "noFill": true,
   "fill": "#ffffff",
-  "pixel_per_pt": 3,
+  "pixel_per_pt": 5,
   "search_system": false,
   "override_math": true,
   "font_families": [],
