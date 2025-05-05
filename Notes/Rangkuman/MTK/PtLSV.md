@@ -35,15 +35,15 @@ Selesaikan $3x+7≥16$.
 1. Kurangi kedua ruas dengan 7:
     
     $$
-	3x + 7 - 7 &#sym.gt.eq 16 -7 \
-	3x &#sym.gt.eq 9
+	3x + 7 - 7 &>= 16 -7 \
+	3x &>= 9
 	$$
 	<br>
 2. Bagi kedua ruas dengan 3 (karena positif, tanda tetap):
     
 	$$
-	(3x)/3 &#sym.gt.eq 9/3 \
-	x &#sym.gt.eq 3
+	(3x)/3 &>= 9/3 \
+	x &>= 3
 	$$
 	<br>
 	
@@ -60,16 +60,16 @@ Selesaikan $−2x+5<9$.
 1. Kurangi kedua ruas dengan 5:
 
 	$$
-	-2x + 5 - 5 &#sym.lt 9 - 5 \
-	-2x &#sym.lt 4
+	-2x + 5 - 5 &< 9 - 5 \
+	-2x &< 4
 	$$
 	<br>
     
 2. Bagi kedua ruas dengan −2 (**tanda berubah karena dibagi negatif**):
     
     $$
-    (-2x)/(-2) &#sym.lt 4/(-2) \
-    x &#sym.gt -2
+    (-2x)/(-2) &< 4/(-2) \
+    x &> -2
     $$
 
 **Himpunan penyelesaian:** $x>−2x$ atau $(−2,∞)$.
