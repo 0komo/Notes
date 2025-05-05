@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Rangkuman/MTK/Aritmetika Sosial.md",
+                "file": "Rangkuman/MTK/Bilangan Berpangkat dan Bentuk Akar.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Aritmetika Sosial"
+              "title": "Bilangan Berpangkat dan Bentuk Akar"
             }
           }
         ]
@@ -98,7 +98,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Rangkuman/MTK/Aritmetika Sosial.md",
+            "file": "Rangkuman/MTK/Bilangan Berpangkat dan Bentuk Akar.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -157,8 +157,9 @@
   },
   "active": "73027f877fe96932",
   "lastOpenFiles": [
-    "Rangkuman/MTK/Kekongruenan.md",
+    "Rangkuman/MTK/Bangun Ruang Sisi Lengkung.md",
     "Rangkuman/MTK/Aritmetika Sosial.md",
+    "Rangkuman/MTK/Kekongruenan.md",
     "Rangkuman/MTK/Relasi dan Fungsi.md"
   ]
 }
