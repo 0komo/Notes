@@ -16,15 +16,10 @@ Relasi adalah hubungan antara dua himpunan (biasanya himpunan A dan B) yang mema
 
 **Cara Menyatakan Relasi:**
 
-1. **Diagram Panah**  
-    
-    
+1. **Diagram Panah** 
 2. **Himpunan Pasangan Berurutan**  
-    Contoh: ${(1,a),(2,b),(3,c)}{(1,a),(2,b),(3,c)}$
-    
-3. **Tabel**
-    
-4. **Grafik Kartesius**
+    Contoh: ${(1,a),(2,b),(3,c)}$
+3. **Grafik Kartesius**
     
 
 ---
@@ -43,14 +38,12 @@ Fungsi adalah relasi khusus dimana **setiap anggota himpunan A (domain) dipasang
 
 **Contoh Fungsi:**
 
-- f(x)=2xf(x)=2x (setiap input xx memiliki output tunggal 2x2x).
+- $f(x)=2x$ (setiap input $x$ memiliki output tunggal $2x$).
     
-- Relasi {(1,a),(2,b),(3,c)}{(1,a),(2,b),(3,c)} adalah fungsi.
+- Relasi ${(1,a),(2,b),(3,c)}$ adalah fungsi.
     
 
 **Contoh Bukan Fungsi:**
 
-- {(1,a),(1,b),(2,c)}{(1,a),(1,b),(2,c)} (anggota 1 memiliki dua pasangan).
+- ${(1,a),(1,b),(2,c)}$ (anggota 1 memiliki dua pasangan).
     
-
----
