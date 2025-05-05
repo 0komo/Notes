@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "Rangkuman/MTK/Aritmetika Sosial.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
@@ -155,6 +155,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "41d717f56676d6a2",
-  "lastOpenFiles": []
+  "active": "73027f877fe96932",
+  "lastOpenFiles": [
+    "Rangkuman/MTK/Relasi dan Fungsi.md",
+    "Rangkuman/MTK/Aritmetika Sosial.md"
+  ]
 }
