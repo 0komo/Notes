@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Rangkuman/SBK/Syarat-Syarat Menggambar Komik.md",
+                "file": "Rangkuman/SBK/Aliran dalam Melukis.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Syarat-Syarat Menggambar Komik"
+              "title": "Aliran dalam Melukis"
             }
           }
         ],
@@ -182,14 +182,14 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "workspaces:Manage workspace layouts": false,
-      "obsidian-git:Open Git source control": false,
-      "print:Print note": false
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ab7887071c5fb105",
+  "active": "0965f884ff1d045a",
   "lastOpenFiles": [
-    "Rangkuman/SBK/Unsur-Unsur Poster.md",
     "Rangkuman/SBK/Syarat-Syarat Menggambar Komik.md",
+    "Rangkuman/SBK/Aliran dalam Melukis.md",
+    "Rangkuman/SBK/Unsur-Unsur Poster.md",
     "Rangkuman/SBK/Gambar Vignette.md",
     "Rangkuman/SBK/Jenis-Jenis Gambar Ilustrasi.md",
     "Rangkuman/SBK/Prinsip-Prinsip Menggambar Model.md",
@@ -216,7 +216,6 @@
     "Rangkuman/MTK/Segiempat.md",
     "Rangkuman/MTK/Relasi dan Fungsi.md",
     "Rangkuman/MTK/Pola bilangan.md",
-    "Rangkuman/MTK/Perbandingan.md",
     "Rangkuman/MTK",
     "Untitled",
     "Rangkuman/PAI",
