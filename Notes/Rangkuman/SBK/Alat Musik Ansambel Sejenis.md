@@ -80,8 +80,8 @@
 
 ### **Perbandingan Ansambel Sejenis vs. Campuran**
 
-|**Ansambel Sejenis**|**Ansambel Campuran**|
-|---|---|
-|Instrumen satu keluarga|Gabungan berbagai jenis alat|
-|Contoh: Quartet biola|Contoh: Band (gitar, drum, bass, vokal)|
-|Fokus pada harmoni homogen|Variasi tekstur suara lebih kaya|
+| **Ansambel Sejenis**       | **Ansambel Campuran**                   |
+| -------------------------- | --------------------------------------- |
+| Instrumen satu keluarga    | Gabungan berbagai jenis alat            |
+| Contoh: Quartet biola      | Contoh: Band (gitar, drum, bass, vokal) |
+| Fokus pada harmoni homogen | Variasi tekstur suara lebih kaya        |
