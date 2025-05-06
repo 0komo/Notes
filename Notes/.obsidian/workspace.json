@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Rangkuman/SBK/Unsur-Unsur Poster.md",
+                "file": "Rangkuman/SBK/Alat Musik Melodis.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Unsur-Unsur Poster"
+              "title": "Alat Musik Melodis"
             }
           },
           {
@@ -35,8 +35,7 @@
               "title": "Alat Musik Ansambel Sejenis"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -185,10 +184,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0965f884ff1d045a",
+  "active": "51660dc086eaa834",
   "lastOpenFiles": [
-    "Rangkuman/SBK/Artikulasi dalam Bernyanyi.md",
     "Rangkuman/SBK/Alat Musik Ansambel Sejenis.md",
+    "Rangkuman/SBK/Alat Musik Melodis.md",
+    "Rangkuman/SBK/Unsur-Unsur Poster.md",
+    "Rangkuman/SBK/Artikulasi dalam Bernyanyi.md",
     "Rangkuman/SBK/Unisono.md",
     "Rangkuman/SBK/Jenis-Jenis Pameran Seni.md",
     "Rangkuman/SBK/Tahap-Tahap Pelaksanaan Pameran.md",
@@ -199,7 +200,6 @@
     "Rangkuman/SBK/Aliran dalam Melukis.md",
     "Rangkuman/SBK/Objek dalam Tema Melukis.md",
     "Rangkuman/SBK/Syarat-Syarat Menggambar Komik.md",
-    "Rangkuman/SBK/Unsur-Unsur Poster.md",
     "Rangkuman/SBK/Gambar Vignette.md",
     "Rangkuman/SBK/Jenis-Jenis Gambar Ilustrasi.md",
     "Rangkuman/SBK/Prinsip-Prinsip Menggambar Model.md",
@@ -215,7 +215,6 @@
     "Rangkuman/PJOK",
     "Rangkuman/MTK/Bangun Ruang Sisi Lengkung.md",
     "Rangkuman/MTK/Bilangan Berpangkat dan Bentuk Akar.md",
-    "Rangkuman/MTK/Kekongruenan.md",
     "Rangkuman/MTK",
     "Untitled",
     "Rangkuman/PAI",
