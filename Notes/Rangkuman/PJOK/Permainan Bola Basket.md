@@ -124,3 +124,44 @@
 - Dribble melalui rintangan (cone)
     
 - Latihan dribble dengan tangan kiri dan kanan
+
+---
+
+### **Teknik Overhead Pass (Lemparan Atas Kepala Lurus Tanpa Pantulan)**
+
+#### **1. Posisi Awal**
+
+- **Kaki**: Dibuka selebar bahu (kaki dominan sedikit ke depan).
+    
+- **Bola**: Dipegang dengan **kedua tangan di atas kepala**, jari terbuka lebar.
+    
+- **Siku**: Ditekuk sekitar **90°**, tidak terlalu melebar.
+    
+
+#### **2. Gerakan Melempar**
+
+1. **Ayunkan bola dari belakang kepala** ke depan dengan **kedua lengan**.
+    
+2. **Luruskan siku sepenuhnya** saat melepaskan bola.
+    
+3. **Lepaskan bola dengan jari-jari** (terutama jari telunjuk & tengah).
+    
+4. **Putar pergelangan tangan** ke bawah (snap) untuk memberi backspin.
+    
+5. **Pindahkan berat badan** dari kaki belakang ke depan.
+    
+
+#### **3. Pelepasan Bola**
+
+- **Arah**: Lurus ke target (tanpa pantulan).
+    
+- **Ketinggian**: Melewati jangkauan defender (jika ada).
+    
+- **Tenaga**: Kombinasi dorongan lengan + transfer berat badan.
+    
+
+#### **4. Follow Through**
+
+- **Tangan**: Mengarah ke target setelah melepas bola.
+    
+- **Jari**: Menunjuk ke arah lemparan.
