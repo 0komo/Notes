@@ -52,13 +52,13 @@ Persilangan dihibrid adalah persilangan dua individu dengan **dua sifat beda** y
 **Rasio Fenotip**: **9 : 3 : 3 : 1**  
 **Persentase Fenotip**:
 
-- Bulat-Kuning = 916×100%=56,25%169​×100%=56,25%.
+- Bulat-Kuning = $916×100\%=56,25\%$.
     
-- Bulat-Hijau = 316×100%=18,75%163​×100%=18,75%.
+- Bulat-Hijau = $316×100\%=18,75\%$.
     
-- Keriput-Kuning = 316×100%=18,75%163​×100%=18,75%.
+- Keriput-Kuning = $316×100\%=18,75\%$.
     
-- Keriput-Hijau = 116×100%=6,25%161​×100%=6,25%.
+- Keriput-Hijau = $116×100\%=6,25\%$.
     
 
 ---
@@ -67,7 +67,7 @@ Persilangan dihibrid adalah persilangan dua individu dengan **dua sifat beda** y
 
 Untuk persilangan dihibrid **heterozigot** (RrYy × RrYy):
 
-$$\text{Rasio Fenotip} = (3:1)^2 = 9:3:3:1$$
+$$\text{Rasio Fenotip} = (3:1)^2 = 9:3:3:1$$
 
 _Catatan_:
 
